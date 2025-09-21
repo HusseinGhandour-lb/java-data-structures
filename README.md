@@ -31,9 +31,9 @@ The project includes the following data structures:
    ```bash
    git clone https://github.com/HusseinGhandour-lb/java-data-structures.git
 2. Navigate into the project folder:
+   ```bash
    cd java-data-structures
-
-
 3. Compile and run:
+   ```bash
    javac src/Singly_Linked_List.jav
    java Singly_Linked_List
