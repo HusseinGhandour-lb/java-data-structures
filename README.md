@@ -7,7 +7,8 @@ Each data structure is written from scratch to better understand how they work i
 The project includes the following data structures:
 
 - **Array List**
-- **Linked List**
+- **Singly Linked List**
+- **Doubly Linked List**
 - **Stack**
 - **Queue**
 - **Binary Tree**
@@ -29,3 +30,10 @@ The project includes the following data structures:
 1. Clone the repository:
    ```bash
    git clone https://github.com/HusseinGhandour-lb/java-data-structures.git
+2. Navigate into the project folder:
+   cd java-data-structures
+
+
+3. Compile and run:
+   javac src/Singly_Linked_List.jav
+   java Singly_Linked_List
